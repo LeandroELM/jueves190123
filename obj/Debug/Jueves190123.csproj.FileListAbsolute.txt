@@ -1,0 +1,8 @@
+C:\Users\CCBB-16\source\repos\Jueves190123\bin\Debug\Jueves190123.exe.config
+C:\Users\CCBB-16\source\repos\Jueves190123\bin\Debug\Jueves190123.exe
+C:\Users\CCBB-16\source\repos\Jueves190123\bin\Debug\Jueves190123.pdb
+C:\Users\CCBB-16\source\repos\Jueves190123\obj\Debug\Jueves190123.csproj.AssemblyReference.cache
+C:\Users\CCBB-16\source\repos\Jueves190123\obj\Debug\Jueves190123.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB-16\source\repos\Jueves190123\obj\Debug\Jueves190123.csproj.CoreCompileInputs.cache
+C:\Users\CCBB-16\source\repos\Jueves190123\obj\Debug\Jueves190123.exe
+C:\Users\CCBB-16\source\repos\Jueves190123\obj\Debug\Jueves190123.pdb
